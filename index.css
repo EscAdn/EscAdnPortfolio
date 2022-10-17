@@ -54,7 +54,7 @@ body {
 .titulo h1 {
   color: #1d2635;
   display: inline;
-  font-size: 117px;
+  font-size: 500%;
   font-family: Arial Black, sans-serif;
   margin-bottom: 0;
 }
